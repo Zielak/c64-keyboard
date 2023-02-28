@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:leonardo",
+    "port": "/dev/tty.usbmodemHIDPC1",
+    "sketch": "c64Keyboard/c64Keyboard.ino"
+}

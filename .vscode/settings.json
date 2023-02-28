@@ -1,0 +1,9 @@
+{
+  "C_Cpp.commentContinuationPatterns": [
+    "/**"
+  ],
+  "C_Cpp.formatting": "vcFormat",
+  "C_Cpp.vcFormat.newLine.beforeElse": false,
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine"
+}
